@@ -41,7 +41,7 @@ python uncocker.py <path-to-extension.vsix>
 | alpine-x64   | TESTED                    | TESTED                       | STABLE        |
 | alpine-arm64 | UNTESTED                  | UNTESTED                     | UNSTABLE      |
 
-- ms-dotnettools.csharp - version 2.74.24
+- ms-dotnettools.csharp - version 2.63.32
 - ms-vscode.cpptools - version 1.25.3
 
 ## Warning
