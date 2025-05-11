@@ -8,6 +8,7 @@ A tool to uncock Microsoft VS Code extensions for vscode forks by patching cock 
 # Ever seen this? Well no more!
 
 - The C/C++ extension may be used only with Microsoft Visual Studio, Visual Studio for Mac, Visual Studio Code, Azure DevOps, Team Foundation Server, and successor Microsoft products and services to develop and test your applications.
+- Unable to start debugging. .NET Debugging is supported only in Microsoft versions of VS Code. See https://aka.ms/VSCode-DotNet-DbgLicense for more information
 
 ## Usage
 
